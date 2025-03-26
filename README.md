@@ -96,7 +96,7 @@
     </div>
 
     <div class="footer">
-        <p>© 2024 V. Hari | All Rights Reserved</p>
+        <p>© 2025 V. Hari | All Rights Reserved</p>
     </div>
 
 </body>
